@@ -3,7 +3,7 @@ Summary:	This package contains some nice displays
 Summary(pl):	Ten pakiet zawiera kilka ³adnych wy¶wietlaczy
 Name:		gDesklets-%{pname}
 Version:	1
-Release:	2
+Release:	3
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.pycage.de/download/gdesklets/%{pname}.tar.bz2
