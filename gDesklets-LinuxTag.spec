@@ -1,4 +1,4 @@
-%define	pname	LinuxTag
+%define		pname	LinuxTag
 Summary:	This package contains some nice displays
 Summary(pl):	Ten pakiet zawiera kilka ³adnych wy¶wietlaczy
 Name:		gDesklets-%{pname}
