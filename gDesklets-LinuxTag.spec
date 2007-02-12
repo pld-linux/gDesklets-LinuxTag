@@ -1,6 +1,6 @@
 %define		pname	LinuxTag
 Summary:	This package contains some nice displays
-Summary(pl):	Ten pakiet zawiera kilka ³adnych wy¶wietlaczy
+Summary(pl.UTF-8):   Ten pakiet zawiera kilka Å‚adnych wyÅ›wietlaczy
 Name:		gDesklets-%{pname}
 Version:	1
 Release:	3
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This package contains some nice displays.
 
-%description -l pl
-Ten pakiet zawiera kilka ³adnych wy¶wietlaczy.
+%description -l pl.UTF-8
+Ten pakiet zawiera kilka Å‚adnych wyÅ›wietlaczy.
 
 %prep
 %setup -q -n %{pname}
