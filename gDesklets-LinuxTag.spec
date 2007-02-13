@@ -1,6 +1,6 @@
 %define		pname	LinuxTag
 Summary:	This package contains some nice displays
-Summary(pl.UTF-8):   Ten pakiet zawiera kilka ładnych wyświetlaczy
+Summary(pl.UTF-8):	Ten pakiet zawiera kilka ładnych wyświetlaczy
 Name:		gDesklets-%{pname}
 Version:	1
 Release:	3
